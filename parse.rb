@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby 
-require 'json' 
+require 'json'
 cities = {}
 city = nil
 key = nil
@@ -22,4 +22,5 @@ File.foreach('cities.txt') { |s|
     key = city['city'].downcase.gsub(/[ -]/,'').gsub(/\(.*?\)/,'')
   end
 }
-puts "citiesCallback(#{cities.to_json});"
+# puts "citiesCallback(#{cities.to_json});"
+puts "citiesCallback(#{JSON.pretty_generate(cities)});"
