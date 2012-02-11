@@ -3366,8 +3366,22 @@ citiesCallback({
     "city": "Miri"
   },
   "shenzhen": {
+    "lat": 22.55,
+    "lon": 114.1,
+    "wikipedia": "Shenzhen",
+    "city": "Shenzhen"
+  },
+  "hongkong": {
+    "lat": 22.3,
+    "lon": 114.2,
+    "wikipedia": "Hong Kong",
+    "city": "Hong Kong"
+  },
+  "wuhan": {
     "lat": 30.567,
-    "lon": 114.267
+    "lon": 114.267,
+    "wikipedia": "Wuhan",
+    "city": "Wuhan"
   },
   "handan": {
     "lat": 36.6,

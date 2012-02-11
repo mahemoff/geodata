@@ -2267,11 +2267,11 @@ city_wiki: "Shenzhen"
 
 lat: "22°18′"
 lon: "114°12′"
-city_wiki:"
+city_wiki: "Hong Kong"
 
 lat: "30°34′"
 lon: "114°16′"
-city_wiki:"
+city_wiki: "Wuhan"
 
 lat: "36°36′"
 lon: "114°29′"
