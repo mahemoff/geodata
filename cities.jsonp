@@ -3336,8 +3336,16 @@ citiesCallback({
     "city": "Surabaya"
   },
   "guangzhou": {
+    "lat": 23.1,
+    "lon": 113.267,
+    "wikipedia": "Guangzhou",
+    "city": "Guangzhou"
+  },
+  "macau": {
     "lat": 22.167,
-    "lon": 113.55
+    "lon": 113.55,
+    "wikipedia": "Macau",
+    "city": "Macau"
   },
   "zhengzhou": {
     "lat": 34.75,

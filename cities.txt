@@ -2247,7 +2247,7 @@ city_wiki: "Guangzhou"
 
 lat: "22°10′"
 lon: "113°33′"
-city_wiki:"
+city_wiki: "Macau"
 
 lat: "34°45′"
 lon: "113°38′"
